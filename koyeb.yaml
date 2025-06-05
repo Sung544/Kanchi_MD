@@ -1,6 +1,6 @@
-name: inconnu-xd
+name: Sung-MD
 services:
-  - name: inconnu-xd-service
+  - name: Sung-MD-service
     type: web
     ports:
       - 5000
