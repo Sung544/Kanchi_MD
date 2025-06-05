@@ -1,22 +1,22 @@
 {
-  "name": "your bot name",
-  "description": "Javascript WhatsApp bot made your name",
+  "name": "Sung-MD",
+  "description": "Javascript WhatsApp bot made Sung-544",
   "logo": "https://files.catbox.moe/82b8gr.jpg",
-  "keywords": ["INCONNU-XD"],
+  "keywords": ["Sung-544"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
     "SESSION_ID": {
       "description": "Put the session-id here.",
-      "required": true,
+      "required": false,
       "value": ""
     },  
     
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "INCONNU XD"
+      "value": "Sung-MD"
     }, 
       
     "PREFIX": {
@@ -79,27 +79,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY INCONNU XD*"
+      "value": "*SEEN YOUR STATUS BY Sung-MD*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "YOUR NAME"
+      "value": "Sung-544"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "554xxxxxx"
+      "value": "234xxxxxx"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "INCONNU XD"
+      "value": "Sung-MD"
 
       }, 
 
@@ -138,7 +138,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢᴏᴛᴀʀ ᴛᴇᴄʜ*"
+      "value": "> *Arise from the shadows*"
     },
 
       "DELETE_LINKS": {
@@ -175,7 +175,7 @@
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
       "required": false,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
+      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍,💞"
     }, 
     
     "ANTI_DEL_PATH": {
