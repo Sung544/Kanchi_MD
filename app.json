@@ -1,7 +1,7 @@
 {
   "name": "Sung-MD",
   "description": "Javascript WhatsApp bot made Sung-544",
-  "logo": "https://files.catbox.moe/82b8gr.jpg",
+  "logo": "https://files.catbox.moe/zbvq7j.jpg",
   "keywords": ["Sung-544"],
   "success_url": "/",
 
@@ -132,7 +132,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/82b8gr.jpg"
+      "value": "https://files.catbox.moe/zbvq7j.jpg"
     },
     
      "DESCRIPTION": {
