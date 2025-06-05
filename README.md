@@ -1,2 +1,2 @@
-# Kanchi_MD
+# Sung-MD
 New bot by Sung544
