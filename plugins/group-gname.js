@@ -13,8 +13,8 @@ cmd({
 async (conn, mek, m, { from, isGroup, isAdmins, isBotAdmins, args, q, reply }) => {
     try {
         if (!isGroup) return reply("❌ This command can only be used in groups.");
-        if (!isAdmins) return reply("❌ Only group admins can use this command.");
-        if (!isBotAdmins) return reply("❌ I need to be an admin to update the group name.");
+        if (!isAdmins) return reply("❌ Only S Rank group admins can use this command.");
+        if (!isBotAdmins) return reply("❌ I need to be an S Rank admin to update the group name.");
         if (!q) return reply("❌ Please provide a new group name.");
 
         await conn.groupUpdateSubject(from, q);
