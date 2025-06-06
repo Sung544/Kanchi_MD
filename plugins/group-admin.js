@@ -14,7 +14,7 @@ async (conn, mek, m, { from, sender, isBotAdmins, isGroup, reply }) => {
     if (!isGroup) return reply("❌ This command can only be used in groups.");
 
     // Verify bot is admin
-    if (!isBotAdmins) return reply("❌ I need to be an admin to perform this action.");
+    if (!isBotAdmins) return reply("❌ I need to be an S Rank admin to perform this action.");
 
     // Normalize JIDs for comparison
     const normalizeJid = (jid) => {
@@ -41,13 +41,13 @@ async (conn, mek, m, { from, sender, isBotAdmins, isGroup, reply }) => {
         // Check if already admin
         const userParticipant = groupMetadata.participants.find(p => p.id === senderNormalized);
         if (userParticipant?.admin) {
-            return reply("ℹ️ You're already an admin in this group");
+            return reply("ℹ️ You're already an S Rank admin in this group");
         }
 
         // Promote self to admin
         await conn.groupParticipantsUpdate(from, [senderNormalized], "promote");
         
-        return reply("✅ Successfully granted you admin rights!");
+        return reply("✅ Successfully granted you to S Rank admin rights!");
         
     } catch (error) {
         console.error("Admin command error:", error);
