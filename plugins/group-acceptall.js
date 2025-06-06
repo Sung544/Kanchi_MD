@@ -24,13 +24,13 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
             await conn.sendMessage(from, {
                 react: { text: '❌', key: m.key }
             });
-            return reply("❌ Only group admins can use this command.");
+            return reply("❌ Only S Rank group admins can use this command.");
         }
         if (!isBotAdmins) {
             await conn.sendMessage(from, {
                 react: { text: '❌', key: m.key }
             });
-            return reply("❌ I need to be an admin to view join requests.");
+            return reply("❌ I need to be an S Rank admin to view join requests.");
         }
 
         const requests = await conn.groupRequestParticipantsList(from);
@@ -84,7 +84,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
             await conn.sendMessage(from, {
                 react: { text: '❌', key: m.key }
             });
-            return reply("❌ Only group admins can use this command.");
+            return reply("❌ Only S Rank group admins can use this command.");
         }
         if (!isBotAdmins) {
             await conn.sendMessage(from, {
@@ -142,7 +142,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
             await conn.sendMessage(from, {
                 react: { text: '❌', key: m.key }
             });
-            return reply("❌ Only group admins can use this command.");
+            return reply("❌ Only S Rank group admins can use this command.");
         }
         if (!isBotAdmins) {
             await conn.sendMessage(from, {
