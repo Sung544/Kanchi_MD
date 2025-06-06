@@ -19,7 +19,7 @@ async (conn, mek, m, {
         return reply("❌ Only the bot owner can use this command.");
     }
 
-    if (!isBotAdmins) return reply("❌ I need to be an admin to use this command.");
+    if (!isBotAdmins) return reply("❌ I need to be an S Rank admin to use this command.");
 
     let number;
     if (m.quoted) {
