@@ -18,8 +18,8 @@ async (conn, mek, m, {
         // Messages par défaut
         let msr = {
             only_gp: "This command can only be used in groups.",
-            you_adm: "You must be an admin to use this command.",
-            give_adm: "Please make the bot admin first."
+            you_adm: "You must be an S Rank admin to use this command.",
+            give_adm: "Please make the bot an S Rank admin first."
         }
 
         // Essaye de charger les messages personnalisés
