@@ -50,7 +50,7 @@ cmd({
             `🎞 *Reply with your choice:*\n` +
             `2.1 *Video Type* 🎬\n` +
             `2.2 *Document Type* 📁\n\n` +
-            `${config.FOOTER || "> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢᴏᴛᴀʀ ᴛᴇᴄʜ*"}`;
+            `${config.FOOTER || "> *Sung-MD by Sung544*"}`;
 
         const sentMsg = await conn.sendMessage(from, { image: { url: image }, caption: info }, { quoted: mek });
         const messageID = sentMsg.key.id;
@@ -93,7 +93,7 @@ cmd({
                 }
 
                 await conn.sendMessage(from, type, { quoted: mek });
-                await conn.sendMessage(from, { text: '✅ Media Upload Successful ✅', edit: msg.key });
+                await conn.sendMessage(from, { text: '✅ Media Upload Successful ✅ Sung-MD on top', edit: msg.key });
 
             } catch (error) {
                 console.error(error);
