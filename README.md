@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=JEEPERS%20CREEPER-XMD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=KANCHI%20-MD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
 
 <p align="center">
@@ -48,7 +48,7 @@
 
 <div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
   
-### <img src="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/blob/main/assets/forkicon.gif?raw=true" width="25"/> 1. Fork This Repository
+### <img src="https://github.com/Sung544/Kanchi_MD/blob/main/assets/forkicon.gif?raw=true" width="25"/> 1. Fork This Repository
   
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
   <p style="color: #00ffff;">First star & Fork repo using button Below !</p>
