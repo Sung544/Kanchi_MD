@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=BEST+WHATSAPP+BOT;DEVELOPED+BY;KANCHI+MF+CYBER;REMEMBER+TO;FORK+&+STAR+THE+REPO"alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=BEST+WHATSAPP+BOT;DEVELOPED+BY;KANCHI+MD+CYBER;REMEMBER+TO;FORK+&+STAR+THE+REPO"alt="Animated Typing SVG" />
 </p>
 
 <div align="center">
@@ -18,11 +18,11 @@
 </p>
 
  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=JEEPERS+CREEPERS-XMD;LATEST+VERSION+4.0.4;TOXIC+LOVER+IS;THE+FOUNDER:AT+2025"alt="Animated
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=KANCHI+MD;LATEST+VERSION+4"alt="Animated
 
 ---
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=REMEMBER+TO;STAR+AND;FORK;JEEPERS;CREEPER-XMD;REPO" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=REMEMBER+TO;STAR+AND;FORK;KANCHI+MD" alt="Typing SVG" /></a>
   </p>
 ```
 
